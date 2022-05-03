@@ -1,17 +1,20 @@
-All notable changes to this project will be documented in this file.
-We follow the [Semantic Versioning 2.0.0](http://semver.org/) format.
+Журнал изменений — это файл, который содержит кураторский, упорядоченный в хронологическом порядке список заметных изменений для каждой версии проекта.
+
+# Список изменений 
+Все заметные изменения в  проекте документируются в этом файле. 
 
 
 ## x.y.z - YYYY-MM-DD
+укажите дату
 
-### Added
-- Lorem ipsum dolor sit amet
+### Добавлено 
+- 111
 
-### Deprecated
+### Изменено
+- Nothing.
+- 
+### Удалено
 - Nothing.
 
-### Removed
-- Nothing.
-
-### Fixed
+### Исправлено
 - Nothing.
